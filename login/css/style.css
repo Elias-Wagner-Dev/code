@@ -10,6 +10,8 @@
     justify-content: center;
     align-items: center;
 }
+
+
 /*Estilo de todo conteudo do formularo*/
 /*styling all form content*/
 #formulario{
@@ -57,6 +59,7 @@
     border-radius: 20px;
     cursor: pointer;
 }
+
 /*form p tag*/
 /*tag p do formulario*/
 #OR{
